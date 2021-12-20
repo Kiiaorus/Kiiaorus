@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiiaorus</h1>
-<h3 align="center">I am a web developer new to using AdonisJS for my backend and NuxtJS for my frontend. Ah! and I am Kiiaorus, 22 years old and I have been a developer for 2 years.</h3>
+<h3 align="center">I am a web developer new to using <a href="https://adonisjs.com/" target="blank">AdonisJS</a> for my backend and <a href="https://nuxtjs.org/" target="blank">NuxtJS</a> for my frontend. Ah! and I am Kiiaorus, 22 years old and I have been a developer for 2 years.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiiaorus&label=Profile%20views&color=0e75b6&style=flat" alt="kiiaorus" /> </p>
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucylduohc2u3r8bvatl4nxyg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucylduohc2u3r8bvatl4nxyg" height="30" width="40" /></a>
-<a href="https://discord.gg/Kiiaorus#6235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kiiaorus#6235" height="30" width="40" /></a>
+<a href="https://discord.gg/ex3E4fP5ux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kiiaorus#6235" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
